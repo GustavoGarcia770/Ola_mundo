@@ -3,6 +3,5 @@
 
  Repositório criado durante uma aula gravada. 
 
- Essa linha eu adicionei no meu site do github. 
 
 
